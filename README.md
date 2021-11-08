@@ -6,13 +6,14 @@ Welcome!
 :books: I’m currently learning about DevOps, Frontend and Micro-service Architectures.
 <br>
 <br>
-## About technologies that i work and study
 
  <div>
   <a href="https://github.com/ianchagas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ianchagas&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianchagas&layout=compact&langs_count=7&theme=outrun"/>
-</div> <br>
+</div> <br> <br>
+
+## About technologies that i work and study
 
 ### Backend
 <div style="display: inline_block"><br>
