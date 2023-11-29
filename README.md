@@ -9,7 +9,6 @@ Welcome!
 
  <div>
   <a href="https://github.com/ianchagas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ianchagas&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianchagas&layout=compact&langs_count=7&theme=outrun"/>
 </div> <br> <br>
 
@@ -27,7 +26,7 @@ Welcome!
 
 ### Frontend
 <div style="display: inline_block"><br>
-  <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="react" height="30" width="40" src="https://br.vuejs.org/images/logo.svg">
   <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -38,10 +37,11 @@ Welcome!
 ### ORM + Database
  <div style="display: inline_block"><br>
   <img align="center" alt="typeorm" height="30" width="40" src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png">
+  <img align="center" alt="typeorm" height="30" width="40" src="https://github.com/sequelize/sequelize/blob/main/logo.svg">
+  <img align="center" alt="typeorm" height="30" width="40" src="https://github.com/mongodb/mongo/blob/master/docs/leaf.svg">
   <img align="center" alt="postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
   <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
-  <img align="center" alt="firebird" height="30" width="40" src="https://w7.pngwing.com/pngs/715/817/png-transparent-firebird-database-microsoft-sql-server-logo-logo-free-logo-area-sql.png">
 </div><br>
  
 ### Infra + DevOps
