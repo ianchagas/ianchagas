@@ -1,9 +1,9 @@
 Welcome!
 # I'm Ian Chagas!
 
-:computer: I'm Backend NodeJS Developer! <br>
+:computer: I'm Fullstack NodeJS/VueJs Developer! <br>
 :house_with_garden: I’m from Brazil. <br>
-:books: I’m currently learning about DevOps, Frontend and Micro-service Architectures.
+:books: I’m currently learning about Full Cycle development and game development.
 <br>
 <br>
 
@@ -12,9 +12,9 @@ Welcome!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianchagas&layout=compact&langs_count=7&theme=outrun"/>
 </div> <br> <br>
 
-## About technologies that i work and study
+## About technologies that i work, study or i worked some time ago
 
-### Backend
+### Backend (NodeJs/NestJs - Main)
 <div style="display: inline_block"><br>
   <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,16 +22,21 @@ Welcome!
   <img align="center" alt="nestjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
   <img align="center" alt="jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   <img align="center" alt="php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
+  <img align="center" alt="elixir" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg">
 </div><br>
 
-### Frontend
+### Frontend (VueJs - Main)
 <div style="display: inline_block"><br>
   <img align="center" alt="react" height="30" width="40" src="https://br.vuejs.org/images/logo.svg">
+  <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
 </div><br>
  
 ### ORM + Database
@@ -47,8 +52,8 @@ Welcome!
 ### Infra + DevOps
  <div style="display: inline_block"><br>
   <img align="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
-  <img align="center" alt="kong" height="30" width="40" src="https://2tjosk2rxzc21medji3nfn1g-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/kong-combination-mark-colors.svg">
-  <img align="center" alt="keycloak" height="30" width="40" src="https://raw.githubusercontent.com/aegis-icons/aegis-icons/master/PNG/Keycloak.png">
+  <img align="center" alt="kong" height="30" width="40" src="	https://www.svgrepo.com/show/353978/kong-icon.svg">
+  <img align="center" alt="keycloak" height="30" width="40" src="https://www.keycloak.org/resources/images/logo.svg">
 </div><br>
  
 ### Other Skills
@@ -65,10 +70,9 @@ Welcome!
 ## Contact me
  
 [![Linkedin Badge](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ian-chagas-salgado-763a82166/)](https://www.linkedin.com/in/ian-chagas-salgado-763a82166/)
-[![Instagram Badge]( https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iaan.exe/)](https://www.instagram.com/iaan.exe/)
-[![Facebook Badge](	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/ianchagas/)](https://www.facebook.com/ianchagas/)
+[![Instagram Badge]( https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iaan.exe/)](https://www.instagram.com/ianchagas.s/)
 [![Discord Badge](	https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](IanChagasS#6535)
-[![WhatsApp Badge](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5547996187817)](https://api.whatsapp.com/send?phone=5547996187817)
+[![WhatsApp Badge](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5547996187817)](https://api.whatsapp.com/send?phone=5547988537850)
 <br>
  
 ###
